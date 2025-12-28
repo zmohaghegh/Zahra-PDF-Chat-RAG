@@ -48,11 +48,11 @@ git clone [https://github.com/YOUR_USERNAME/Zahra-PDF-Chat-RAG.git](https://gith
 cd Zahra-PDF-Chat-RAG
 
 ###2. Install Required Packages
-You can install all dependencies listed in the requirements.txt file:
+###You can install all dependencies listed in the requirements.txt file:
 pip install -r requirements.txt
 
 ###3. Launch the Application
-Start the interactive web interface by running:
+###Start the interactive web interface by running:
 python app.py
 
 

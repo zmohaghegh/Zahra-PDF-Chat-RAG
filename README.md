@@ -53,5 +53,8 @@ pip install -r requirements.txt
 
 ###3. Launch the Application
 Start the interactive web interface by running:
+python app.py
+
+
 
 
